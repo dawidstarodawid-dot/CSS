@@ -1,35 +1,35 @@
 p#pogrubienie_starostecki
 { 
-color:CF4F1F; 
+color: #CF4F1F; 
 font-size:36px; 
 } 
 p#pochylona_starostecki 
 { 
 font-style:italic; 
 font-size:41pt;
-color:E04A7BB;
+color: #E04A7B;
 }
 p#index_gorny_starostecki
 { 
-color:ECB81B; 
+color: #ECB81B; 
 font-size:0.61cm; 
 } 
 p#index_dolny_starostecki 
 {  
-color:34AD683; 
+color: #34AD68; 
 font-size:0.72cm; 
 } 
 p#mono_starostecki
 { 
-color:19F21DB; 
+color: #19F21D; 
 font-size:46px; 
 } 
 p#powiekszenie_starostecki
 { 
-color:828E7D; 
+color: #828E7D; 
 } 
 p#pomniejszenie_starostecki
 { 
-color:11a8601;
+color: #11A860;
 font-size:13px; 
 } 
